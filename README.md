@@ -1,4 +1,4 @@
-# streamlitDBS]
+
 # 🚴‍♂️ Dashboard Analisis Data Bike Sharing
 
 ## 📌 Deskripsi
@@ -23,7 +23,7 @@ pip install -r requirements.txt
    ```
 3. **Jalankan Streamlit**
    ```sh
-   streamlit run app.py
+   streamlit run dashboard.py
    ```
 4. **Buka browser** dan akses **http://localhost:8501**
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## 📂 Struktur Proyek
 ```
 📂 Bike-Sharing-Analysis
-│── 📄 app.py                
+│── 📄 dashboard.py                
 │── 📄 requirements.txt      
 │── 📄 README.md              
 │── 📂 data/                  
@@ -46,12 +46,12 @@ pip install -r requirements.txt
 ## 🔧 Troubleshooting
 ✅ **ModuleNotFoundError** → Jalankan `pip install -r requirements.txt` untuk menginstal semua dependensi.
 ✅ **Dataset Tidak Ditemukan** → Pastikan file **day.csv** dan **hour.csv** ada di folder **data/**.
-✅ **Streamlit Tidak Berjalan** → Pastikan Anda menjalankan perintah `streamlit run app.py` di direktori proyek yang benar.
+✅ **Streamlit Tidak Berjalan** → Pastikan Anda menjalankan perintah `streamlit run dashboard.py` di direktori proyek yang benar.
 
 ---
 
 ## 📞 Kontak
-Jika ada pertanyaan atau masalah, silakan hubungi **[Nama Anda]** melalui email: **your.email@example.com**.
+Jika ada pertanyaan atau masalah, silakan hubungi **Johan Adrian** melalui email: **johantgg113@gmail.com**.
 
-Happy Coding! 🚀
+
 
